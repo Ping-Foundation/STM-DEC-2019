@@ -74,7 +74,7 @@
 <div class="header">
 <div class="container">
 <div class="header_top-bg">
-<div class="logo">
+<!--<div class="logo">
 <a href="#"><img src="" alt=""></a>
 </div>
 </div>
@@ -87,7 +87,7 @@
 <div class="header_bottom-bg">
 <a class="btn btn-default btn-xl wow zoomIn" data-wow-delay="0.3s" href="https://forms.gle/NiX6F2UjQQt93uJAA" >RESERVE MY SEAT</a>
 <p class="cta_urgency wow fadeIn" data-wow-delay="0.5s"><small>Hurry up, Only 25 seats are available</small></p>
-</div>
+</div>-->
 </div>
 
 </div>
@@ -97,7 +97,7 @@
 &lt;!&ndash;<source src="video/event-video.webm" type="video/webm" />&ndash;&gt;
 &lt;!&ndash;<source src="video/event-video.ogg" type="video/ogg" />&ndash;&gt;
 </video>-->
-    <iframe class="intro-video" src="https://www.youtube.com/embed/8wkK5E-rQsA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture loop" autoplay allowfullscreen></iframe>
+    <iframe class="intro-video" width="100%" height="auto" src="https://www.youtube.com/embed/8wkK5E-rQsA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture loop" autoplay allowfullscreen></iframe>
 <!--<div class="poster hidden">
 <img src="video/event-video.jpg" alt="event video poster">
 </div>-->
@@ -163,7 +163,7 @@
     </div>
 </div>
 <div class="countdown_wrap">
-    <a class="btn btn-default btn-xl wow zoomIn" data-wow-delay="0.3s" href="https://forms.gle/NiX6F2UjQQt93uJAA" >REGISTER</a>
+    <a class="btn btn-default btn-xl wow zoomIn" data-wow-delay="0.3s" href="#" data-toggle="modal" data-target="#register-now">REGISTER</a>
 <h6 class="countdown_title text-center">WORKSHOP WILL START IN</h6>
 
 <ul id="countdown" data-event-date="21 december 2019 16:00:00">
@@ -188,6 +188,112 @@
 </div>
 
 </section>
+
+<div class="modal fade" id="register-now" tabindex="-1" role="dialog" aria-labelledby="register-now-label">
+    <div class="modal-dialog modal-sm" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title text-center" id="register-now-label">Event Registration
+                </h4>
+            </div>
+            <div class="modal-body">
+                <div class="registration-form">
+
+                    <form name="Register" method="POST">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="form-group">
+                                    <label>Full Name</label>
+                                    <input type="text" class="form-control" name="Name" placeholder="Full Name" required>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="form-group">
+                            <label>Mobile</label>
+                            <input type="tel" class="form-control" name="Mobile" placeholder="Mobile" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Email ID</label>
+                            <input type="email" class="form-control" name="Email" placeholder="Email Address" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="Gender">Male</label>
+                            <input type="radio"  name="Gender"  required id="Gender">
+                            <label for="Female">Female</label>
+                            <input type="radio" name="Gender" id="Female"  required>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-7">
+                                <div class="form-group">
+                                    <label>Qualification</label>
+                                    <select class="form-control" name="Qualification" required>
+                                        <option value="">Choose...</option>
+                                        <option value="B.Tech">B.Tech</option>
+                                        <option value="M.Tech">M.Tech</option>
+                                        <option value="BCA/MCA">BCA/MCA</option>
+                                        <option value="Bsc/Msc">Bsc/Msc</option>
+                                        <option value="Diploma">Diploma</option>
+                                        <option value="Other">Other</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-sm-5">
+                                <div class="form-group">
+                                    <label>Year of Graduation</label>
+                                    <input type="Text" class="form-control" name="YearGraduation" placeholder="Year of Graduation" required>
+                                </div>
+                            </div>
+                            <div class="col-sm-7">
+                                <div class="form-group">
+                                    <label>Employment Status</label>
+                                    <select class="form-control" name="Employment" required>
+                                        <option value="">Choose...</option>
+                                        <option value="Employed">Employed</option>
+                                        <option value="Fresher">Fresher</option>
+                                        <option value="Student">Student</option>
+
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="form-group">
+                                    <label>Name of College / Organisation</label>
+                                    <input type="Text" class="form-control" name="Organization" placeholder="College / Organization" required>
+                                </div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="form-group">
+                                    <label>About you</label>
+                                    <input type="Text" class="form-control" name="About" placeholder="About You (optional)">
+                                </div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="form-group">
+                                    <label>From where did you learn about Self Tech Mastery Workshop ?</label>
+                                    <select class="form-control" name="Employment">
+                                        <option value="">Choose...</option>
+                                        <option value="Employed">Friends</option>
+                                        <option value="Fresher">Facebook</option>
+                                        <option value="Student">Whatsapp Group</option>
+
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="text-center top-space">
+                            <button type="submit" id="reserve-btn" class="btn btn-success btn-lg">Reserve my Seat</button>
+
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 
@@ -522,10 +628,10 @@
 <script src="js/plugins/count-to.js"></script>
 <script src="js/plugins/nicescroll.js"></script>
 
-<script src="../../../external.html?link=https://maps.googleapis.com/maps/api/js?key=AIzaSyDMTUkJAmi1ahsx9uCGSgmcSmqDTBF9ygg"></script>
-<script src="js/plugins/infobox.js"></script>
+<!--<script src="../../../external.html?link=https://maps.googleapis.com/maps/api/js?key=AIzaSyDMTUkJAmi1ahsx9uCGSgmcSmqDTBF9ygg"></script>-->
+<!--<script src="js/plugins/infobox.js"></script>
 <script src="js/plugins/google-map.js"></script>
-<script src="js/plugins/directions.js"></script>
+<script src="js/plugins/directions.js"></script>-->
 
 <script src="js/plugins/style-switcher.js"></script>
 
@@ -533,6 +639,22 @@
 <script src="js/includes/contact_form.js"></script>
 
 <script src="js/main.js"></script>
+<script>
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbzm71usvoUL190-i-fs28To5WXZgG30To8kXVzi2jA4czER-BFI/exec'
+    const form = document.forms['Register'];
+    form.addEventListener('submit', e => {
+
+        e.preventDefault();
+        e.stopPropagation();
+
+        fetch(scriptURL, { method: 'POST', body: new FormData(form)},)
+            .then(response => {
+                console.log(response)
+                location.reload()
+            })
+            .catch(error => console.error('Error!', error.message))
+    })
+</script>
 </body>
 
 <!-- Mirrored from demo.web3canvas.com/themeforest/gather/index.html by HTTraQt Website Copier/1.x [Karbofos 2012-2017] Tue, 03 Dec 2019 12:05:35 GMT -->

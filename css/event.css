@@ -742,7 +742,7 @@ p, .lead {
 
 #countdown li {
     display: inline-block;
-    width: 104px;
+    width: 65px;
     text-align: center;
     background: #fff;
     padding: 15px 5px;
@@ -765,7 +765,7 @@ p, .lead {
     margin-top: 5px;
     color: #8a8a8a;
     text-transform: uppercase;
-    font-size: .875em
+    font-size: .700em
 }
 
 .countdown_title {
@@ -1923,4 +1923,18 @@ footer {
 }
 .countdown_title{
     color: #fff !important;
+}
+.mu-about-right h4{
+    margin-top: 25px;
+}
+.header{
+    height: 400px;
+
+}
+
+@media (max-width: 450px) {
+    .header{
+        height: 210px !important;
+
+    }
 }
