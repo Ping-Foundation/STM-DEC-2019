@@ -3,15 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="11439aab-cb97-4625-84af-c4e48e4a7a4d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/event.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/event.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/event-video.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/event-video.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/event-video.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/event.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/int.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/intro.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/intro.webm" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="655" column="6" lean-forward="true" selection-start-line="655" selection-start-column="6" selection-end-line="655" selection-end-column="6" />
+            <state relative-caret-position="-494">
+              <caret line="191" column="106" selection-start-line="191" selection-start-column="106" selection-end-line="191" selection-end-column="106" />
             </state>
           </provider>
         </entry>
@@ -45,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index-video.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="916" column="76" lean-forward="true" selection-start-line="916" selection-start-column="76" selection-end-line="916" selection-end-column="123" />
+            <state relative-caret-position="70">
+              <caret line="931" column="5" selection-start-line="931" selection-start-column="5" selection-end-line="931" selection-end-column="106" />
             </state>
           </provider>
         </entry>
@@ -62,6 +53,7 @@
       <find>#countdown li</find>
       <find>@media</find>
       <find>register-now</find>
+      <find>modal</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -163,18 +155,17 @@
       <option name="presentableId" value="Default" />
       <updated>1575376234978</updated>
       <workItem from="1575376237434" duration="28325000" />
-      <workItem from="1575624336491" duration="10983000" />
+      <workItem from="1575624336491" duration="11798000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39308000" />
+    <option name="totallyTimeSpent" value="40123000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="699" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -186,7 +177,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.053285968" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.43694493" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -206,15 +197,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index-video.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="916" column="76" lean-forward="true" selection-start-line="916" selection-start-column="76" selection-end-line="916" selection-end-column="123" />
+        <state relative-caret-position="70">
+          <caret line="931" column="5" selection-start-line="931" selection-start-column="5" selection-end-line="931" selection-end-column="106" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="655" column="6" lean-forward="true" selection-start-line="655" selection-start-column="6" selection-end-line="655" selection-end-column="6" />
+        <state relative-caret-position="-494">
+          <caret line="191" column="106" selection-start-line="191" selection-start-column="106" selection-end-line="191" selection-end-column="106" />
         </state>
       </provider>
     </entry>
