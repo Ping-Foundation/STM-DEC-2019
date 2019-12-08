@@ -1985,3 +1985,7 @@ footer {
     background:  #3e3637 ;
     color: #fff!important;
 }
+.embed_twitter h3{
+    text-align: center;
+    margin: 40px;
+}
