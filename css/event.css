@@ -47,7 +47,7 @@ h3 {
 h4 {
     font-size: 20px;
     line-height: 1.5;
-    letter-spacing: 1px;
+    letter-spacing: 1.5px;
     font-weight: 400;
 }
 
@@ -1641,7 +1641,7 @@ p, .lead {
 footer {
     text-align: center;
     padding: 40px 0 30px;
-    background: #5db8a2 !important;
+    background: #f01c3c!important;
     color: #fff;
 }
 
@@ -1901,13 +1901,13 @@ footer {
     z-index: 1000;
 }
 .countdown_wrap{
-    background:  #5db8a2;
+    background:   #f01c3c ;
     text-align: center;
 
     padding-top: 55px;;
 }
 .terms{
-    background:  #5db8a2 !important; ;
+    background:  #f01c3c !important; ;
     color: #fff !important;
 }
 .text-muted{
@@ -1919,7 +1919,7 @@ footer {
     font-size: 24px;
 }
 .mu-about-right span{
-    font-size: 25px;
+    font-size: 23px;
 }
 .countdown_title{
     color: #fff !important;
@@ -1937,4 +1937,26 @@ footer {
         height: 210px !important;
 
     }
+}
+
+.reveal-menu{
+    padding: 0;
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover{
+    background: #f01c3c !important;
+}
+.timeline-bullet, .highlighted-plan{
+    border-color: #f01c3c !important;
+}
+.timeline::before{
+    background: #f01c3c !important;
+}
+.btn-top{
+    color:
+            #f01c3c !important;
+
+    border-color:
+            #f01c3c!important;
+
+    margin-top: 10px!important;
 }
