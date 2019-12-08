@@ -1960,3 +1960,12 @@ footer {
 
     margin-top: 10px!important;
 }
+.btn-default{
+    color:  #f01c3c!important;;
+}
+.btn-default:hover{
+    background:  #fff!important;
+}
+.btn-default::after{
+    background:  #fff!important;
+}
