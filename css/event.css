@@ -1955,20 +1955,33 @@ footer {
     color:
             #f01c3c !important;
 
-    border-color:
-            #f01c3c!important;
-
-    margin-top: 10px!important;
+   border: none;
+    margin-top: 30px!important;
+    background: rgba(0, 0, 0,0.8) !important;
+    color: #fff !important;
 }
 .btn-default{
-    color:  #f01c3c!important;;
+    color:  #f01c3c;
 }
 .btn-default:hover{
     background:  #fff!important;
+    color: #000!important;
 }
 .btn-default::after{
     background:  #fff!important;
 }
 .mu-about-right h4{
     text-align: justify;
+}
+.btn-top:hover{
+    background: #000!important;
+    color: #fff !important;
+}
+#testimonials{
+    height: 300px;
+    overflow: auto;
+}
+.embed_twitter{
+    background:  #3e3637 ;
+    color: #fff!important;
 }

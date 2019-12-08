@@ -2,46 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11439aab-cb97-4625-84af-c4e48e4a7a4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/alert/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/config/gulp.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/config/gulp.dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/config/gulp.prod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/css/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/css/public.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/dist/css/icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/dist/css/icons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/dist/css/simpleToast.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/dist/css/simpleToast.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/dist/fonts/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/dist/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/dist/fonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/dist/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/dist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/dist/js/simpleToast.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/dist/js/simpleToast.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/js/address.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/js/bscroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/js/mobileLayer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/loading.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/src/fonts/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/src/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/src/fonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/src/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/src/js/jquery.simpleToast.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/src/js/simpleToast.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/src/sass/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/src/sass/core/_function.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/src/sass/core/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/src/sass/icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/src/sass/jquery.simpleToast.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/alert/src/sass/simpleToast.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/success.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/event.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/event.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -58,8 +21,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="622" column="52" lean-forward="true" selection-start-line="622" selection-start-column="52" selection-end-line="622" selection-end-column="52" />
+            <state relative-caret-position="775">
+              <caret line="283" column="81" lean-forward="true" selection-start-line="283" selection-start-column="81" selection-end-line="283" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/success.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="117" column="59" lean-forward="true" selection-start-line="117" selection-start-column="59" selection-end-line="117" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -67,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/event.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="1969" column="9" selection-start-line="1969" selection-start-column="9" selection-end-line="1969" selection-end-column="9" />
+            <state relative-caret-position="295">
+              <caret line="1985" column="26" selection-start-line="1985" selection-start-column="26" selection-end-line="1985" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -76,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index-video.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-380">
-              <caret line="931" column="5" selection-start-line="931" selection-start-column="5" selection-end-line="931" selection-end-column="106" />
+            <state relative-caret-position="128">
+              <caret line="496" column="28" selection-start-line="492" selection-end-line="530" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -97,6 +69,8 @@
       <find>#4eae49</find>
       <find>&lt;br&gt;</find>
       <find>ping</find>
+      <find>what pe</find>
+      <find>event re</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -107,6 +81,7 @@
       <list>
         <option value="$PROJECT_DIR$/index-video.html" />
         <option value="$PROJECT_DIR$/css/themes/green.css" />
+        <option value="$PROJECT_DIR$/success.html" />
         <option value="$PROJECT_DIR$/css/event.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
@@ -131,27 +106,6 @@
               <item name="STM_NEW" type="b2602c69:ProjectViewProjectNode" />
               <item name="STM_NEW" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="STM_NEW" type="b2602c69:ProjectViewProjectNode" />
-              <item name="STM_NEW" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="STM_NEW" type="b2602c69:ProjectViewProjectNode" />
-              <item name="STM_NEW" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="STM_NEW" type="b2602c69:ProjectViewProjectNode" />
-              <item name="STM_NEW" type="462c0819:PsiDirectoryNode" />
-              <item name="logos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="STM_NEW" type="b2602c69:ProjectViewProjectNode" />
-              <item name="STM_NEW" type="462c0819:PsiDirectoryNode" />
-              <item name="video" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -162,15 +116,15 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/logos" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/video" />
     </key>
   </component>
@@ -186,15 +140,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.success.html">
     <configuration name="index-parallax.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/STM_NEW/index-parallax.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/STM_NEW/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="success.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/STM_NEW/success.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.success.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index-parallax.html" />
       </list>
@@ -211,12 +169,12 @@
       <option name="presentableId" value="Default" />
       <updated>1575376234978</updated>
       <workItem from="1575376237434" duration="28325000" />
-      <workItem from="1575624336491" duration="23205000" />
+      <workItem from="1575624336491" duration="31900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51530000" />
+    <option name="totallyTimeSpent" value="60225000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="699" extended-state="6" />
@@ -245,13 +203,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index-video.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-380">
-          <caret line="931" column="5" selection-start-line="931" selection-start-column="5" selection-end-line="931" selection-end-column="106" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/themes/green.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -259,20 +210,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/event.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="1969" column="9" selection-start-line="1969" selection-start-column="9" selection-end-line="1969" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/alert/js/address.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/index-video.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="496" column="28" selection-start-line="492" selection-end-line="530" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="117" column="59" lean-forward="true" selection-start-line="117" selection-start-column="59" selection-end-line="117" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/event.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="1985" column="26" selection-start-line="1985" selection-start-column="26" selection-end-line="1985" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="622" column="52" lean-forward="true" selection-start-line="622" selection-start-column="52" selection-end-line="622" selection-end-column="52" />
+        <state relative-caret-position="775">
+          <caret line="283" column="81" lean-forward="true" selection-start-line="283" selection-start-column="81" selection-end-line="283" selection-end-column="81" />
         </state>
       </provider>
     </entry>
