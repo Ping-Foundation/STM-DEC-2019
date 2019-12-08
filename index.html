@@ -710,6 +710,29 @@
 <script src="js/main.js"></script>
 <script>
     $("#register_form").validate({
+        rules:{
+            Name:{
+                required:true,
+                minlength:4
+            },
+            Mobile:{
+                minlength: 10,
+                maxLength:10
+            },
+            Year_Graduation:{
+                number:true,
+                range:[2010,2024]
+
+            },
+            Gender:{
+                required: true
+            }
+        },
+        messages:{
+            Mobile: "Enter valid mobile number",
+            Year_Graduation: "Enter valid year (2010-2023)",
+            Gender:"Select Gender"
+        }
 
     })
     const scriptURL = 'https://script.google.com/macros/s/AKfycbzm71usvoUL190-i-fs28To5WXZgG30To8kXVzi2jA4czER-BFI/exec'
