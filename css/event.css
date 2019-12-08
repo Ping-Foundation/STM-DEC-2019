@@ -1969,3 +1969,6 @@ footer {
 .btn-default::after{
     background:  #fff!important;
 }
+h4{
+    text-align: justify;
+}
