@@ -598,7 +598,7 @@
 
 <script src="js/includes/subscribe.js"></script>
 <script src="js/includes/contact_form.js"></script>
-
+<script src="js/alert/dist/js/simpleToast.js"></script>
 <script src="js/main.js"></script>
 <script>
     $("#register_form").validate({
@@ -614,7 +614,15 @@
             fetch(scriptURL, {method: 'POST', body: new FormData(form)},)
                 .then(response => {
                     console.log(response)
-                    location.reload()
+                    $('body').simpleToast({
+                        content: "Registered Successfully",
+                        minWidth: "300px",
+                        duration: 2000
+                    });
+                    $("#register_form")[0].reset()
+                    $("#register-now").modal("hide")
+                    //location.reload()
+
                 })
                 .catch(error => console.error('Error!', error.message))
         }
