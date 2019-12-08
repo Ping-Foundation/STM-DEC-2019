@@ -1969,6 +1969,6 @@ footer {
 .btn-default::after{
     background:  #fff!important;
 }
-h4{
+.mu-about-right h4{
     text-align: justify;
 }
