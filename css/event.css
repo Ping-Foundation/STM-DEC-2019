@@ -1989,3 +1989,6 @@ footer {
     text-align: center;
     margin: 40px;
 }
+#testimonials .col-md-4{
+    padding: 17px;
+}

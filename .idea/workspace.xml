@@ -18,8 +18,29 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="284" lean-forward="true" selection-start-line="284" selection-end-line="284" />
+            <state relative-caret-position="1555">
+              <caret line="528" column="35" selection-start-line="528" selection-start-column="35" selection-end-line="528" selection-end-column="35" />
+              <caret line="532" column="35" selection-start-line="532" selection-start-column="35" selection-end-line="532" selection-end-column="35" />
+              <caret line="536" column="35" selection-start-line="536" selection-start-column="35" selection-end-line="536" selection-end-column="35" />
+              <caret line="540" column="35" selection-start-line="540" selection-start-column="35" selection-end-line="540" selection-end-column="35" />
+              <caret line="544" column="35" selection-start-line="544" selection-start-column="35" selection-end-line="544" selection-end-column="35" />
+              <caret line="548" column="35" selection-start-line="548" selection-start-column="35" selection-end-line="548" selection-end-column="35" />
+              <caret line="553" column="35" selection-start-line="553" selection-start-column="35" selection-end-line="553" selection-end-column="35" />
+              <caret line="557" column="35" selection-start-line="557" selection-start-column="35" selection-end-line="557" selection-end-column="35" />
+              <caret line="561" column="35" selection-start-line="561" selection-start-column="35" selection-end-line="561" selection-end-column="35" />
+              <caret line="566" column="35" selection-start-line="566" selection-start-column="35" selection-end-line="566" selection-end-column="35" />
+              <caret line="570" column="35" selection-start-line="570" selection-start-column="35" selection-end-line="570" selection-end-column="35" />
+              <caret line="575" column="39" selection-start-line="575" selection-start-column="39" selection-end-line="575" selection-end-column="39" />
+              <caret line="579" column="39" selection-start-line="579" selection-start-column="39" selection-end-line="579" selection-end-column="39" />
+              <caret line="583" column="39" selection-start-line="583" selection-start-column="39" selection-end-line="583" selection-end-column="39" />
+              <caret line="587" column="39" selection-start-line="587" selection-start-column="39" selection-end-line="587" selection-end-column="39" />
+              <caret line="591" column="39" selection-start-line="591" selection-start-column="39" selection-end-line="591" selection-end-column="39" />
+              <caret line="595" column="39" selection-start-line="595" selection-start-column="39" selection-end-line="595" selection-end-column="39" />
+              <caret line="600" column="39" selection-start-line="600" selection-start-column="39" selection-end-line="600" selection-end-column="39" />
+              <caret line="604" column="39" selection-start-line="604" selection-start-column="39" selection-end-line="604" selection-end-column="39" />
+              <caret line="608" column="39" selection-start-line="608" selection-start-column="39" selection-end-line="608" selection-end-column="39" />
+              <caret line="612" column="39" selection-start-line="612" selection-start-column="39" selection-end-line="612" selection-end-column="39" />
+              <caret line="616" column="39" selection-start-line="616" selection-start-column="39" selection-end-line="616" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -68,6 +89,7 @@
       <find>ping</find>
       <find>what pe</find>
       <find>event re</find>
+      <find>90%</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -137,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.success.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index-parallax.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/STM_NEW/index-parallax.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -149,8 +171,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.success.html" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.success.html" />
         <item itemvalue="JavaScript Debug.index-parallax.html" />
       </list>
     </recent_temporary>
@@ -166,12 +188,12 @@
       <option name="presentableId" value="Default" />
       <updated>1575376234978</updated>
       <workItem from="1575376237434" duration="28325000" />
-      <workItem from="1575624336491" duration="37386000" />
+      <workItem from="1575624336491" duration="41444000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65711000" />
+    <option name="totallyTimeSpent" value="69769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="699" extended-state="6" />
@@ -233,8 +255,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="284" lean-forward="true" selection-start-line="284" selection-end-line="284" />
+        <state relative-caret-position="1555">
+          <caret line="528" column="35" selection-start-line="528" selection-start-column="35" selection-end-line="528" selection-end-column="35" />
+          <caret line="532" column="35" selection-start-line="532" selection-start-column="35" selection-end-line="532" selection-end-column="35" />
+          <caret line="536" column="35" selection-start-line="536" selection-start-column="35" selection-end-line="536" selection-end-column="35" />
+          <caret line="540" column="35" selection-start-line="540" selection-start-column="35" selection-end-line="540" selection-end-column="35" />
+          <caret line="544" column="35" selection-start-line="544" selection-start-column="35" selection-end-line="544" selection-end-column="35" />
+          <caret line="548" column="35" selection-start-line="548" selection-start-column="35" selection-end-line="548" selection-end-column="35" />
+          <caret line="553" column="35" selection-start-line="553" selection-start-column="35" selection-end-line="553" selection-end-column="35" />
+          <caret line="557" column="35" selection-start-line="557" selection-start-column="35" selection-end-line="557" selection-end-column="35" />
+          <caret line="561" column="35" selection-start-line="561" selection-start-column="35" selection-end-line="561" selection-end-column="35" />
+          <caret line="566" column="35" selection-start-line="566" selection-start-column="35" selection-end-line="566" selection-end-column="35" />
+          <caret line="570" column="35" selection-start-line="570" selection-start-column="35" selection-end-line="570" selection-end-column="35" />
+          <caret line="575" column="39" selection-start-line="575" selection-start-column="39" selection-end-line="575" selection-end-column="39" />
+          <caret line="579" column="39" selection-start-line="579" selection-start-column="39" selection-end-line="579" selection-end-column="39" />
+          <caret line="583" column="39" selection-start-line="583" selection-start-column="39" selection-end-line="583" selection-end-column="39" />
+          <caret line="587" column="39" selection-start-line="587" selection-start-column="39" selection-end-line="587" selection-end-column="39" />
+          <caret line="591" column="39" selection-start-line="591" selection-start-column="39" selection-end-line="591" selection-end-column="39" />
+          <caret line="595" column="39" selection-start-line="595" selection-start-column="39" selection-end-line="595" selection-end-column="39" />
+          <caret line="600" column="39" selection-start-line="600" selection-start-column="39" selection-end-line="600" selection-end-column="39" />
+          <caret line="604" column="39" selection-start-line="604" selection-start-column="39" selection-end-line="604" selection-end-column="39" />
+          <caret line="608" column="39" selection-start-line="608" selection-start-column="39" selection-end-line="608" selection-end-column="39" />
+          <caret line="612" column="39" selection-start-line="612" selection-start-column="39" selection-end-line="612" selection-end-column="39" />
+          <caret line="616" column="39" selection-start-line="616" selection-start-column="39" selection-end-line="616" selection-end-column="39" />
         </state>
       </provider>
     </entry>
