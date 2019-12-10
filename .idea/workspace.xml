@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11439aab-cb97-4625-84af-c4e48e4a7a4d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="11439aab-cb97-4625-84af-c4e48e4a7a4d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1555">
@@ -45,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/success.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="117" column="59" lean-forward="true" selection-start-line="117" selection-start-column="59" selection-end-line="117" selection-end-column="59" />
+            <state relative-caret-position="240">
+              <caret line="77" column="35" lean-forward="true" selection-start-line="77" selection-start-column="35" selection-end-line="77" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -57,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/event.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="1989" column="14" selection-start-line="1989" selection-start-column="14" selection-end-line="1989" selection-end-column="14" />
+            <state relative-caret-position="266">
+              <caret line="1992" column="17" selection-start-line="1992" selection-start-column="17" selection-end-line="1992" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -100,17 +98,17 @@
       <list>
         <option value="$PROJECT_DIR$/index-video.html" />
         <option value="$PROJECT_DIR$/css/themes/green.css" />
-        <option value="$PROJECT_DIR$/success.html" />
-        <option value="$PROJECT_DIR$/css/event.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/event.css" />
+        <option value="$PROJECT_DIR$/success.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="29" />
-    <option name="y" value="80" />
-    <option name="width" value="1390" />
-    <option name="height" value="1000" />
+    <option name="x" value="20" />
+    <option name="y" value="24" />
+    <option name="width" value="1336" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -135,7 +133,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../self-tech-mastery" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -188,18 +186,17 @@
       <option name="presentableId" value="Default" />
       <updated>1575376234978</updated>
       <workItem from="1575376237434" duration="28325000" />
-      <workItem from="1575624336491" duration="41444000" />
+      <workItem from="1575624336491" duration="44493000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69769000" />
+    <option name="totallyTimeSpent" value="72818000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="699" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -211,7 +208,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.25044405" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.25044405" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -236,20 +233,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="496" column="28" selection-start-line="492" selection-end-line="530" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/success.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="117" column="59" lean-forward="true" selection-start-line="117" selection-start-column="59" selection-end-line="117" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/event.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="1989" column="14" selection-start-line="1989" selection-start-column="14" selection-end-line="1989" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -278,6 +261,20 @@
           <caret line="608" column="39" selection-start-line="608" selection-start-column="39" selection-end-line="608" selection-end-column="39" />
           <caret line="612" column="39" selection-start-line="612" selection-start-column="39" selection-end-line="612" selection-end-column="39" />
           <caret line="616" column="39" selection-start-line="616" selection-start-column="39" selection-end-line="616" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/event.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="1992" column="17" selection-start-line="1992" selection-start-column="17" selection-end-line="1992" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="77" column="35" lean-forward="true" selection-start-line="77" selection-start-column="35" selection-end-line="77" selection-end-column="35" />
         </state>
       </provider>
     </entry>
